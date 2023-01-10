@@ -1,5 +1,7 @@
-# BS_VulnReport
+# BS VulnReport
 A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper
+
+We used this anonymous link, https://tinyurl.com/block-scope, when we submitted the paper.
 
 |Source          |Description                                   |Project     |Fix Status|Clone Type|Patch Commit|VulnType|
 |----------------|----------------------------------------------|------------|----------|----------|------------|--------|
