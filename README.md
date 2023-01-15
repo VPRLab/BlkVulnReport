@@ -1,5 +1,6 @@
-# BS VulnReport
-A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper
+# Blockchain Vulnerabilities Reported by VPRLab
+
+## A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper
 
 We used this anonymous link, https://tinyurl.com/block-scope, when we submitted the paper.
 
