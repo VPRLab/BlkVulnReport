@@ -15,7 +15,7 @@ The following is the bib information:
 }
 ```
 
-A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper.
+## A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper.
 
 We used this anonymous link, https://tinyurl.com/block-scope, when we submitted the paper.
 
