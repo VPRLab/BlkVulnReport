@@ -1,6 +1,21 @@
 # Blockchain Vulnerabilities Reported by VPRLab
 
-## A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper
+**BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects**
+
+Paper link: https://dx.doi.org/10.14722/ndss.2023.24222
+
+The following is the bib information:
+
+```latex
+@INPROCEEDINGS{BLKSCP23,
+  AUTHOR = {Xiao Yi and Yuzhou Fang and Daoyuan Wu and Lingxiao Jiang},
+  TITLE = {BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects},
+  BOOKTITLE = {Proc. ISOC NDSS},
+  YEAR = {2023},
+}
+```
+
+A Summary of Vulnerabilities Found in the BlockScope NDSS'23 Paper.
 
 We used this anonymous link, https://tinyurl.com/block-scope, when we submitted the paper.
 
