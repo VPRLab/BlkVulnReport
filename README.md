@@ -2,6 +2,8 @@
 
 **BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects**
 
+https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf
+
 Paper link: https://dx.doi.org/10.14722/ndss.2023.24222
 
 The following is the bib information:
