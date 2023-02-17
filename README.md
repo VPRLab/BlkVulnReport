@@ -4,14 +4,14 @@
 
 https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf
 
-Paper link: https://dx.doi.org/10.14722/ndss.2023.24222
+NDSS paper link: https://www.ndss-symposium.org/ndss-paper/blockscope-detecting-and-investigating-propagated-vulnerabilities-in-forked-blockchain-projects/
 
 The following is the bib information:
 
 ```latex
 @INPROCEEDINGS{BLKSCP23,
   AUTHOR = {Xiao Yi and Yuzhou Fang and Daoyuan Wu and Lingxiao Jiang},
-  TITLE = {BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects},
+  TITLE = {{BlockScope}: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects},
   BOOKTITLE = {Proc. ISOC NDSS},
   YEAR = {2023},
 }
