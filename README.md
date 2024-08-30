@@ -1,5 +1,7 @@
 # Blockchain Vulnerabilities Reported by VPRLab
 
+BlockScope's source code is available at https://github.com/VPRLab/BlockScope.
+
 **BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects**
 
 https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf
